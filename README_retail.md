@@ -121,3 +121,6 @@ python retail_analysis_mysql.py
 3. **Capitalise on Q4** — stock up early, run pre-season promotions in September–October
 4. **Grow international revenue** — localised campaigns for Germany and France
 5. **Suppress Lost customers** — 1,248 unresponsive customers are inflating marketing costs
+
+## Author
+Tinyiko Patience Mathebula
